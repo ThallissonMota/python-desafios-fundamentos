@@ -57,5 +57,3 @@ Os desafios contemplam os seguintes tópicos:
 
 Cada arquivo representa um desafio independente, focado em um conceito específico da linguagem Python, seguindo uma ordem progressiva de aprendizado.
 
-Os arquivos seguem o padrão:
-
