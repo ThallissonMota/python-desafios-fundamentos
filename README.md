@@ -55,5 +55,5 @@ Os desafios contemplam os seguintes tópicos:
 
 ## 📂 Estrutura do projeto
 
-Cada arquivo representa um desafio independente, focado em um conceito específico da linguagem Python, seguindo uma ordem progressiva de aprendizado.
+Cada arquivo representa um desafio independente, focado em um conceito específico da linguagem Python, seguindo uma ordem progressiva de aprendizado
 
